@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "Brad Bieselin",
+      "name": "Brad Bieselin",
+      "image": "https://www.forkknifeswoon.com/wp-content/uploads/2014/10/simple-homemade-chicken-ramen-fork-knife-swoon-01.jpg",
+      "price": "15"
+    },
+    {
+      "id": 8,
+      "name": "",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 9,
+      "name": "",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 10,
+      "name": "",
+      "image": "",
+      "price": ""
     }
   ]
 }
